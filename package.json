@@ -1,0 +1,24 @@
+{
+  "name": "tomratcliffe-personal",
+  "version": "1.0.0",
+  "description": "Tom Ratciffe web developer personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start --single-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomratcliffe/tom-ratcliffe.com.git"
+  },
+  "keywords": [
+    "portfolio",
+    "personal",
+    "website"
+  ],
+  "author": "Tom Ratcliffe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomratcliffe/tom-ratcliffe.com/issues"
+  },
+  "homepage": "https://github.com/tomratcliffe/tom-ratcliffe.com#readme"
+}
